@@ -11,6 +11,6 @@ int int main()
   cout << "Enter any integer number to display: ";
   cin >> n;
   cout << " Entered value = " << n << endl;
-
+  cout << "GitHub is fun!" << endl;
   return 0;
 }
